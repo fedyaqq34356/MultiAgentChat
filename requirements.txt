@@ -1,0 +1,6 @@
+typing_extensions
+g4f
+asyncio
+aiohttp
+aiogram
+python-dotenv
